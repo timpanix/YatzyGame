@@ -1,0 +1,76 @@
+Goal of the game
+==================
+The goal of Yatzy is to obtain the highest score from rolling 5 dice.
+The game consists of 13 rounds. In each round, you roll the dice and then score the roll in one of 13 fields.
+You must score once in each category.
+The score is determined by a different rule for each field.
+The game ends when all 13 fields have been scored.
+
+Rolling the dice
+================
+You are  allowed to roll the dice a maximum of three times.
+After rolling the dice, you can either score the current roll or re-roll any or all of the dice. 
+After the third roll, you must chose a field to score.
+
+Scoring
+=======
+To score your combination of 5 dice, you select one of the displayed valid options.
+Once a field has been scored, it cannot be scored again for the rest of the game.
+
+Upper Section Scoring
+=====================
+If you score in the upper section of the table, your score is the total of the specified dice face.
+
+Example: You score 5 - 2 - 5 - 6 - 5.
+ - In the "Fives" field, your score would be 15 (3 x 5);
+ - In the "Twos" field, your score would be 2 (1 x 2);
+ - In the "Sixes" field, your score would be 6 (1 x 6);
+ - In the "Aces, "Threes" and "Fours" fields, your score would be 0.
+
+If the sum of all upper scores is 63 or more, you win a bonus of 35 points.
+(Please note that 63 is the total of three each of 1s, 2s, 3s, 4s, 5s and 6s).
+
+Lower Section Scoring
+=====================
+In the lower scores, you score either a set amount, or zero if you don't satisfy the category requirements.
+
+3 and 4 of a kind
+------------------
+You score the total of ALL the dice.
+
+Small and Large Straight
+------------------------
+A Straight is a sequence of consecutive dice faces. 
+A small straight is 4 consecutive faces (30 points), and a large straight 5 consecutive faces (40 points).
+
+Full House
+----------
+A Full House is where you have 3 of a kind and 2 of a kind (25 points).
+
+Yatzy
+-----
+A Yatzy is 5 of a kind (= all dice show identical face).
+The first Yatzy scores 50 points, although you may decide NOT to score it as Yatzy, 
+instead choosing to take it as an upper section score and safeguard you bonus.
+
+Additional Yatzy
+-----------------
+If you roll a second (third, fourth etc.) Yatzy in a game and you scored your first Yatzy in the Yatzy field,
+you win an "Additional Yatzy Bonus" of 100 Points. However, in order to get the bonus, 
+you MUST also put this roll into another field as follows:
+- If the corresponding Upper section field is NOT filled, then you must score there.
+  (Eg. if you rolled 4 - 4 - 4 - 4 - 4 and the "Fours" field is not filled, you must put the score there).
+- If the corresponding Upper section category is filled, you are allowed to score an additional Yatzy
+  in ANY lower section field (the usual points apply in addition to the bonus). 
+- If all fields of the lower sections are filled already, you need to score 0 in a remaining field of the upper section.
+
+Chance
+------
+This is like the joker field. You can roll anything and be able to put it in the Chance category. 
+You score the total of the dice faces.
+
+
+What to do if no option available?
+==================================
+If you have a poor score that you can't use for any field (probably towards the end of the game 
+when most fields are filled), you must cross out one of the remaining fields (the field score is set to 0).
